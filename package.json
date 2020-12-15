@@ -2,11 +2,8 @@
   "name": "react-native-modal",
   "version": "11.5.6",
   "description": "An enhanced React Native modal",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "files": [
-    "dist/"
-  ],
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
   "scripts": {
     "lint": "eslint \"src/**/*.{ts, tsx}\"",
     "test": "yarn run test:ts && yarn run lint",
